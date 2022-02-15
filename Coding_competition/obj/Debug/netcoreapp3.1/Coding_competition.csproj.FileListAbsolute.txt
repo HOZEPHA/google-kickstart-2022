@@ -1,0 +1,14 @@
+D:\Coding_competition\Coding_competition\Coding_competition\obj\Debug\netcoreapp3.1\Coding_competition.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding_competition\Coding_competition\Coding_competition\obj\Debug\netcoreapp3.1\Coding_competition.AssemblyInfoInputs.cache
+D:\Coding_competition\Coding_competition\Coding_competition\obj\Debug\netcoreapp3.1\Coding_competition.AssemblyInfo.cs
+D:\Coding_competition\Coding_competition\Coding_competition\obj\Debug\netcoreapp3.1\Coding_competition.csproj.CoreCompileInputs.cache
+D:\Coding_competition\Coding_competition\Coding_competition\bin\Debug\netcoreapp3.1\Coding_competition.exe
+D:\Coding_competition\Coding_competition\Coding_competition\bin\Debug\netcoreapp3.1\Coding_competition.deps.json
+D:\Coding_competition\Coding_competition\Coding_competition\bin\Debug\netcoreapp3.1\Coding_competition.runtimeconfig.json
+D:\Coding_competition\Coding_competition\Coding_competition\bin\Debug\netcoreapp3.1\Coding_competition.runtimeconfig.dev.json
+D:\Coding_competition\Coding_competition\Coding_competition\bin\Debug\netcoreapp3.1\Coding_competition.dll
+D:\Coding_competition\Coding_competition\Coding_competition\bin\Debug\netcoreapp3.1\Coding_competition.pdb
+D:\Coding_competition\Coding_competition\Coding_competition\obj\Debug\netcoreapp3.1\Coding_competition.dll
+D:\Coding_competition\Coding_competition\Coding_competition\obj\Debug\netcoreapp3.1\Coding_competition.pdb
+D:\Coding_competition\Coding_competition\Coding_competition\obj\Debug\netcoreapp3.1\Coding_competition.genruntimeconfig.cache
+D:\Coding_competition\Coding_competition\Coding_competition\obj\Debug\netcoreapp3.1\Coding_competition.csproj.AssemblyReference.cache
